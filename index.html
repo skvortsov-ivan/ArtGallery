@@ -1,24 +1,28 @@
 <!DOCTYPE html>
-<html lang="sv">
+<html lang="eng">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mitt Vanilla JS Projekt</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bildgalleri</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Vanilla JavaScript</h1>
-    </header>
-    
-    <main>
-        <!-- Huvudinnehåll kommer här -->
-    </main>
-    
-    <footer>
-        <!-- Footer-innehåll kommer här -->
-    </footer>
-    
-    <script src="script.js"></script>
+  <header>
+    <h1>Art Gallery</h1>
+    <input type="search" id="search-input" placeholder="Search for tags">
+  </header>
+  <nav>
+    <button data-category="all">All</button>
+    <button data-category="animals">Animals</button>
+    <button data-category="buildings">Buildings</button>
+    <button data-category="geometry">Geometry</button>
+    <button data-category="quirky">Quirky</button>
+  </nav>
+  <main>
+    <section id="gallery" class="galleryGrid">
+
+    </section>
+  </main>
+  <script src="script.js"></script>
 </body>
 </html>
