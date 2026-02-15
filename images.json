@@ -3,120 +3,120 @@
     "id": 1,
     "category": "Animals",
     "tags": [
-      "animal",
+      "bear",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal1-thumb.jpg",
-    "full": "images/animal1.jpg",
+    "thumbnail": "./thumbnails/animals/animal1-thumb.jpg",
+    "full": "./images/animals/animal1.jpg",
     "alt": "Animal"
   },
   {
     "id": 2,
     "category": "Animals",
     "tags": [
-      "animal",
+      "lion",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal2-thumb.jpg",
-    "full": "images/animal2.jpg",
+    "thumbnail": "./thumbnails/animals/animal2-thumb.jpg",
+    "full": "./images/animals/animal2.jpg",
     "alt": "Animal"
   },
   {
     "id": 3,
     "category": "Animals",
     "tags": [
-      "animal",
+      "giraffe",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal3-thumb.jpg",
-    "full": "images/animal3.jpg",
+    "thumbnail": "./thumbnails/animals/animal3-thumb.jpg",
+    "full": "./images/animals/animal3.jpg",
     "alt": "Animal"
   },
   {
     "id": 4,
     "category": "Animals",
     "tags": [
-      "animal",
+      "stag",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal4-thumb.jpg",
-    "full": "images/animal4.jpg",
+    "thumbnail": "./thumbnails/animals/animal4-thumb.jpg",
+    "full": "./images/animals/animal4.jpg",
     "alt": "Animal"
   },
   {
     "id": 5,
     "category": "Animals",
     "tags": [
-      "animal",
+      "turtle",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal5-thumb.jpg",
-    "full": "images/animal5.jpg",
+    "thumbnail": "./thumbnails/animals/animal5-thumb.jpg",
+    "full": "./images/animals/animal5.jpg",
     "alt": "Animal"
   },
   {
     "id": 6,
     "category": "Animals",
     "tags": [
-      "animal",
+      "panda",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal6-thumb.jpg",
-    "full": "images/animal6.jpg",
+    "thumbnail": "./thumbnails/animals/animal6-thumb.jpg",
+    "full": "./images/animals/animal6.jpg",
     "alt": "Animal"
   },
   {
     "id": 7,
     "category": "Animals",
     "tags": [
-      "animal",
+      "bird",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal7-thumb.jpg",
-    "full": "images/animal7.jpg",
+    "thumbnail": "./thumbnails/animals/animal7-thumb.jpg",
+    "full": "./images/animals/animal7.jpg",
     "alt": "Animal"
   },
   {
     "id": 8,
     "category": "Animals",
     "tags": [
-      "animal",
+      "flamingo",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal8-thumb.jpg",
-    "full": "images/animal8.jpg",
+    "thumbnail": "./thumbnails/animals/animal8-thumb.jpg",
+    "full": "./images/animals/animal8.jpg",
     "alt": "Animal"
   },
   {
     "id": 9,
     "category": "Animals",
     "tags": [
-      "animal",
+      "eagle",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal9-thumb.jpg",
-    "full": "images/animal9.jpg",
+    "thumbnail": "./thumbnails/animals/animal9-thumb.jpg",
+    "full": "./images/animals/animal9.jpg",
     "alt": "Animal"
   },
   {
     "id": 10,
     "category": "Animals",
     "tags": [
-      "animal",
+      "raccoon",
       "wildlife",
       "animal"
     ],
-    "thumbnail": "thumbnails/animal10-thumb.jpg",
-    "full": "images/animal10.jpg",
+    "thumbnail": "./thumbnails/animals/animal10-thumb.jpg",
+    "full": "./images/animals/animal10.jpg",
     "alt": "Animal"
   },
   {
@@ -128,8 +128,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/buddhist1-thumb.jpg",
-    "full": "images/buddhist1.jpg",
+    "thumbnail": "./thumbnails/buildings/buddhist1-thumb.jpg",
+    "full": "./images/buildings/buddhist1.jpg",
     "alt": "Buddhist"
   },
   {
@@ -141,8 +141,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/buddhist2-thumb.jpg",
-    "full": "images/buddhist2.jpg",
+    "thumbnail": "./thumbnails/buildings/buddhist2-thumb.jpg",
+    "full": "./images/buildings/buddhist2.jpg",
     "alt": "Buddhist"
   },
   {
@@ -154,8 +154,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/cathedral1-thumb.jpg",
-    "full": "images/cathedral1.jpg",
+    "thumbnail": "./thumbnails/buildings/cathedral1-thumb.jpg",
+    "full": "./images/buildings/cathedral1.jpg",
     "alt": "Cathedral"
   },
   {
@@ -167,8 +167,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/cathedral2-thumb.jpg",
-    "full": "images/cathedral2.jpg",
+    "thumbnail": "./thumbnails/buildings/cathedral2-thumb.jpg",
+    "full": "./images/buildings/cathedral2.jpg",
     "alt": "Cathedral"
   },
   {
@@ -180,8 +180,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/hindu1-thumb.jpg",
-    "full": "images/hindu1.jpg",
+    "thumbnail": "./thumbnails/buildings/hindu1-thumb.jpg",
+    "full": "./images/buildings/hindu1.jpg",
     "alt": "Hindu"
   },
   {
@@ -193,8 +193,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/hindu2-thumb.jpg",
-    "full": "images/hindu2.jpg",
+    "thumbnail": "./thumbnails/buildings/hindu2-thumb.jpg",
+    "full": "./images/buildings/hindu2.jpg",
     "alt": "Hindu"
   },
   {
@@ -206,8 +206,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/mosque1-thumb.jpg",
-    "full": "images/mosque1.jpg",
+    "thumbnail": "./thumbnails/buildings/mosque1-thumb.jpg",
+    "full": "./images/buildings/mosque1.jpg",
     "alt": "Mosque"
   },
   {
@@ -219,8 +219,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/mosque2-thumb.jpg",
-    "full": "images/mosque2.jpg",
+    "thumbnail": "./thumbnails/buildings/mosque2-thumb.jpg",
+    "full": "./images/buildings/mosque2.jpg",
     "alt": "Mosque"
   },
   {
@@ -232,8 +232,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/synagogue1-thumb.jpg",
-    "full": "images/synagogue1.jpg",
+    "thumbnail": "./thumbnails/buildings/synagogue1-thumb.jpg",
+    "full": "./images/buildings/synagogue1.jpg",
     "alt": "Synagogue"
   },
   {
@@ -245,8 +245,8 @@
       "architecture",
       "building"
     ],
-    "thumbnail": "thumbnails/synagogue2-thumb.jpg",
-    "full": "images/synagogue2.jpg",
+    "thumbnail": "./thumbnails/buildings/synagogue2-thumb.jpg",
+    "full": "./images/buildings/synagogue2.jpg",
     "alt": "Synagogue"
   },
   {
@@ -258,8 +258,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry1-thumb.jpg",
-    "full": "images/geometry1.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry1-thumb.jpg",
+    "full": "./images/geometry/geometry1.jpg",
     "alt": "Geometry"
   },
   {
@@ -271,8 +271,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry2-thumb.jpg",
-    "full": "images/geometry2.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry2-thumb.jpg",
+    "full": "./images/geometry/geometry2.jpg",
     "alt": "Geometry"
   },
   {
@@ -284,8 +284,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry3-thumb.jpg",
-    "full": "images/geometry3.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry3-thumb.jpg",
+    "full": "./images/geometry/geometry3.jpg",
     "alt": "Geometry"
   },
   {
@@ -297,8 +297,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry4-thumb.jpg",
-    "full": "images/geometry4.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry4-thumb.jpg",
+    "full": "./images/geometry/geometry4.jpg",
     "alt": "Geometry"
   },
   {
@@ -310,8 +310,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry5-thumb.jpg",
-    "full": "images/geometry5.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry5-thumb.jpg",
+    "full": "./images/geometry/geometry5.jpg",
     "alt": "Geometry"
   },
   {
@@ -323,8 +323,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry6-thumb.jpg",
-    "full": "images/geometry6.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry6-thumb.jpg",
+    "full": "./images/geometry/geometry6.jpg",
     "alt": "Geometry"
   },
   {
@@ -336,8 +336,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry7-thumb.jpg",
-    "full": "images/geometry7.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry7-thumb.jpg",
+    "full": "./images/geometry/geometry7.jpg",
     "alt": "Geometry"
   },
   {
@@ -349,8 +349,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry8-thumb.jpg",
-    "full": "images/geometry8.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry8-thumb.jpg",
+    "full": "./images/geometry/geometry8.jpg",
     "alt": "Geometry"
   },
   {
@@ -362,8 +362,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry9-thumb.jpg",
-    "full": "images/geometry9.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry9-thumb.jpg",
+    "full": "./images/geometry/geometry9.jpg",
     "alt": "Geometry"
   },
   {
@@ -375,8 +375,8 @@
       "abstract",
       "shape"
     ],
-    "thumbnail": "thumbnails/geometry10-thumb.jpg",
-    "full": "images/geometry10.jpg",
+    "thumbnail": "./thumbnails/geometry/geometry10-thumb.jpg",
+    "full": "./images/geometry/geometry10.jpg",
     "alt": "Geometry"
   },
   {
@@ -388,8 +388,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky1-thumb.jpg",
-    "full": "images/quirky1.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky1-thumb.jpg",
+    "full": "./images/quirky/quirky1.jpg",
     "alt": "Quirky"
   },
   {
@@ -401,8 +401,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky2-thumb.jpg",
-    "full": "images/quirky2.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky2-thumb.jpg",
+    "full": "./images/quirky/quirky2.jpg",
     "alt": "Quirky"
   },
   {
@@ -414,8 +414,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky3-thumb.jpg",
-    "full": "images/quirky3.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky3-thumb.jpg",
+    "full": "./images/quirky/quirky3.jpg",
     "alt": "Quirky"
   },
   {
@@ -427,8 +427,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky4-thumb.jpg",
-    "full": "images/quirky4.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky4-thumb.jpg",
+    "full": "./images/quirky/quirky4.jpg",
     "alt": "Quirky"
   },
   {
@@ -440,8 +440,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky5-thumb.jpg",
-    "full": "images/quirky5.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky5-thumb.jpg",
+    "full": "./images/quirky/quirky5.jpg",
     "alt": "Quirky"
   },
   {
@@ -453,8 +453,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky6-thumb.jpg",
-    "full": "images/quirky6.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky6-thumb.jpg",
+    "full": "./images/quirky/quirky6.jpg",
     "alt": "Quirky"
   },
   {
@@ -466,8 +466,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky7-thumb.jpg",
-    "full": "images/quirky7.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky7-thumb.jpg",
+    "full": "./images/quirky/quirky7.jpg",
     "alt": "Quirky"
   },
   {
@@ -479,8 +479,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky8-thumb.jpg",
-    "full": "images/quirky8.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky8-thumb.jpg",
+    "full": "./images/quirky/quirky8.jpg",
     "alt": "Quirky"
   },
   {
@@ -492,8 +492,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky9-thumb.jpg",
-    "full": "images/quirky9.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky9-thumb.jpg",
+    "full": "./images/quirky/quirky9.jpg",
     "alt": "Quirky"
   },
   {
@@ -505,8 +505,8 @@
       "funny",
       "creative"
     ],
-    "thumbnail": "thumbnails/quirky10-thumb.jpg",
-    "full": "images/quirky10.jpg",
+    "thumbnail": "./thumbnails/quirky/quirky10-thumb.jpg",
+    "full": "./images/quirky/quirky10.jpg",
     "alt": "Quirky"
   }
 ]

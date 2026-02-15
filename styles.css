@@ -1,6 +1,89 @@
-body {
-    font-family: Arial, sans-serif;
-    max-width: 50rem;
-    margin: 0 auto;
-    padding: 1.25rem;
+body { font-family: sans-serif; margin: 0; padding: 20px; }
+
+.galleryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Increased min size for larger thumbnails */
+  gap: 10px;
+}
+
+.galleryGrid img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+nav button {
+  padding: 8px 16px;
+  background: #eee;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+nav button.active {
+  background: #007bff;
+  color: white;
+}
+
+#search-section {
+  margin: 10px 0;
+}
+
+#search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 8px;
+}
+
+dialog {
+  max-width: 90%;
+  margin: auto;
+  padding: 20px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  position: relative; /* For absolute positioning of arrows */
+}
+
+dialog figure {
+  position: relative; /* Container for arrows */
+}
+
+#prev-image, #next-image {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  font-size: 24px;
+  padding: 10px 15px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+#prev-image {
+  left: 10px; /* Left side */
+}
+
+#next-image {
+  right: 10px; /* Right side */
+}
+
+#prev-image:disabled, #next-image:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+dialog img {
+  max-width: 100%;
+  height: auto;
 }

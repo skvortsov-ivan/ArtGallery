@@ -1,28 +1,45 @@
 <!DOCTYPE html>
-<html lang="eng">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bildgalleri</title>
+  <title>Art Gallery</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <h1>Art Gallery</h1>
-    <input type="search" id="search-input" placeholder="Search for tags">
   </header>
-  <nav>
-    <button data-category="all">All</button>
-    <button data-category="animals">Animals</button>
-    <button data-category="buildings">Buildings</button>
-    <button data-category="geometry">Geometry</button>
-    <button data-category="quirky">Quirky</button>
-  </nav>
-  <main>
-    <section id="gallery" class="galleryGrid">
+  
+  <section id="search-section">
+    <input type="search" id="search-input" placeholder="Search for tags...">
+  </section>
+  
+  <section id="buttons" class="buttons">
+    <nav>
+      <ul>
+        <li><button data-category="all">All</button></li>
+        <li><button data-category="Animals">Animals</button></li>
+        <li><button data-category="Religious Architecture">Religious Architecture</button></li>
+        <li><button data-category="Geometry">Geometry</button></li>
+        <li><button data-category="Quirky">Quirky</button></li>
+      </ul>
+    </nav>
+  </section>
+  <main id="gallery" class="galleryGrid">
 
-    </section>
   </main>
+  
+<dialog id="modal">
+  <figure>
+    <img id="full-image" src="" alt="">
+    <figcaption id="image-caption"></figcaption>
+  </figure>
+  <button id="close-modal">Close</button>
+  <button id="prev-image" aria-label="Previous image">&larr;</button> <!-- Left arrow -->
+  <button id="next-image" aria-label="Next image">&rarr;</button> <!-- Right arrow -->
+</dialog>
+  
   <script src="script.js"></script>
 </body>
 </html>
