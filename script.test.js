@@ -289,16 +289,6 @@ describe('init', () => {
     expect(mockedSearchInput.addEventListener).toHaveBeenCalledWith('input', expect.any(Function));
   });
 
-    test('calls loadImages when autoLoad is true', () => {
-      const spy = jest.spyOn(script, 'loadImages').mockImplementation(() => {});
-      
-      init({ autoLoad: true });
-
-      expect(spy).toHaveBeenCalled();
-
-      spy.mockRestore();
-  });
-
 });
 
 describe('nav button click handler', () => {

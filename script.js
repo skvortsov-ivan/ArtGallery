@@ -88,7 +88,7 @@ function init(options) { const { autoLoad = true } = options || {};
     renderGallery(filtered);
   });
 
-  if (autoLoad) { module.exports.loadImages(); }
+  if (autoLoad) { loadImages(); }
 }
 
 // Jest will call init() manually when needed
